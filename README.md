@@ -14,6 +14,13 @@
 
 ![image](https://github.com/user-attachments/assets/dd1c62d6-1893-41ad-80ee-13267af0592f)
 
+### 🌍 World Sepolia Testnet
+
+- **Contract Address**: [0xf99b791257ab50be7f235bc825e7d4b83942cf38](https://sepolia.worldscan.org/address/0xf99b791257ab50be7f235bc825e7d4b83942cf38)
+- **Function Called**: `safeMint`
+- **Transaction Hash**: [0xf9a6ff37c22a5e0e15897e17cf75d63e3e4ddac5a9d96c3516ab17a66c1d83ea](https://sepolia.worldscan.org/tx/0xf9a6ff37c22a5e0e15897e17cf75d63e3e4ddac5a9d96c3516ab17a66c1d83ea)
+
+
 
 ## 🌉 Cross-Chain Minting Flow
 
